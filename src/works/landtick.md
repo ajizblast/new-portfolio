@@ -6,7 +6,7 @@ link: https://www.landtick.mahadewa.online
 
 ### Landtick
 
-![Landtick website](/images/portfolio/landtick.png)
+![Landtick website](/public/images/portfolio/landtick.png)
 
 #### Overview
 
@@ -16,10 +16,8 @@ Landtick dibuat dengan menggunakan Golang dengan framework echo dan react js den
 
 untuk deployment kami menggunakan heroku untuk deploy website dan postgre sql yang ada di railway.
 
-### Admin login
-#### id: admin
-#### password: admin
-
-
+admin login menggunakan id: "admin"
+admin password "admin"
+masukkan tanpa tanda kutip.
 
 
