@@ -26,7 +26,7 @@ password: admin
 ### Link Landtick Website
 
  - [Live Website](https://www.landtick.mahadewa.online)
- - [Github](https://github.com/ajizblast/new/portfolio)
+ - [Github](https://github.com/ajizblast/final-landtick)
  - [Figma Design](https://www.figma.com/file/OF7al8MLyuVWESDEwdE9vT/LandTick?type=design&node-id=1-5781&mode=design&t=185t2RgpuJVYhMgB-0)
 
 
