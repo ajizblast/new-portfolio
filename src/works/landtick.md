@@ -6,7 +6,7 @@ link: https://www.landtick.mahadewa.online
 
 ### Landtick
 
-![Landtick website](/images/portfolio/landtick.png)
+![Landtick website](/images/portfolio/1.png)
 
 #### Overview
 
