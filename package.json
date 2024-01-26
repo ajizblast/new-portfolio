@@ -46,5 +46,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ajizblast/new-portfolio.git",
+  "author": "ajizblast <ajizblast@gmail.com>",
+  "license": "MIT"
 }
