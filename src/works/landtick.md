@@ -16,6 +16,11 @@ Landtick dibuat dengan menggunakan Golang dengan framework echo dan react js den
 
 untuk deployment kami menggunakan heroku untuk deploy website dan postgre sql yang ada di railway.
 
+
+### Login as Admin
+#### id: admin
+#### password: admin
+
 admin login menggunakan id: "admin"
 admin password "admin"
 masukkan tanpa tanda kutip.
