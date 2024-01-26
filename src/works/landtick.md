@@ -1,17 +1,23 @@
 ---
-date: 23 March 2021
-author: Bake Doe
-link: https://envato.com
+date: 20 Agustus 2023
+author: Chahyo Purnomo Aji
+link: https://www.landtick.mahadewa.online
 ---
 
 ### Landtick
 
-![Boost your post for increasing sales](/images/portfolio/1.jpg)
+![Boost your post for increasing sales](/images/portfolio/landtick.png)
 
 #### Overview
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit magni at, tempore cumque? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum consequatur earum debitis mollitia repellat porro dolorum magni neque.
+Landtick adalah sebuah website pemesanan tiket kereta api.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit magni at, tempore cumque? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum consequatur earum debitis mollitia repellat.
+Landtick dibuat dengan menggunakan Golang dengan framework echo dan react js dengan tailwind atau bootstrap dan react router dom maupun redux. 
 
-Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit consequatur earum debitis mollitia repellat.
+untuk deployment kami menggunakan heroku untuk deploy website dan postgre sql yang ada di railway.
+
+admin login menggunakan id: "admin"
+admin password "admin"
+masukkan tanpa tanda kutip.
+
+
