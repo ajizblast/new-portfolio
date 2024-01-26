@@ -18,8 +18,10 @@ untuk deployment kami menggunakan heroku untuk deploy website dan postgre sql ya
 
 
 #### Login as Admin
-| admin | admin |
-| ------ | ------ |
+```sh
+id: admin
+password: admin
+```
 
 ### Link Landtick Website
 
