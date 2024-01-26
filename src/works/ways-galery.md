@@ -4,7 +4,7 @@ author: Chahyo Purnomo Aji
 link: https://www.ways-galery.mahadewa.online/
 ---
 
-### Holyways
+### Ways Galery
 
 ![Boost your post for increasing sales](/images/portfolio/ways-galery.png)
 
