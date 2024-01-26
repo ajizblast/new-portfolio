@@ -6,7 +6,7 @@ link: https://www.landtick.mahadewa.online
 
 ### Landtick
 
-![Boost your post for increasing sales](/images/portfolio/1.jpg)
+![Boost your post for increasing sales](/images/portfolio/landtick.png)
 
 #### Overview
 
