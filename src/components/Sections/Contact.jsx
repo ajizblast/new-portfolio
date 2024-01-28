@@ -28,7 +28,7 @@ function Contact() {
     }
 
     // Kirim email menggunakan EmailJS
-    emailjs.sendForm('gmailaji', 'Ytemplate_6mxjdg5', event.target, '6wPOHwPFG1ALqQDp4')
+    emailjs.sendForm('gmailaji', 'template_6mxjdg5', event.target, 'pUPlARKGyCFv1O2Or')
       .then((result) => {
         console.log(result.text);
         setMessage('Your message has been sent successfully!');
