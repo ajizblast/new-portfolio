@@ -2,8 +2,8 @@ import React, { useEffect, useState } from "react";
 import { Link as ScrollLink } from "react-scroll";
 import { Link, useRouteMatch } from "react-router-dom";
 import {
-  FaFacebookF,
-  FaTwitter,
+  FaTelegramPlane,
+  FaWhatsapp,
   FaInstagram,
   FaGithub,
   FaDribbble,
@@ -14,10 +14,10 @@ const headerData = {
   designation: "Fullstack Developer",
   imageThumb: "/images/140logo.png",
   social: {
-    facebook: "https://facebook.com",
-    twitter: "https://twitter.com",
-    instagram: "https://www.instagram.com/",
-    github: "https://www.youtube.com/",
+    facebook: "https://t.me/chahyopurnomoaji",
+    twitter: "https://wa.me/6285161052522",
+    instagram: "https://www.instagram.com/ajizblast",
+    github: "https://www.github.com/ajizblast",
     dribbble: "https://dribbble.com/cpacreature",
   },
 };
@@ -202,7 +202,7 @@ function Header({ toggleHeader, toggleHandler }) {
               {!headerData.social.twitter ? null : (
                 <li className="list-inline-item">
                   <a href={headerData.social.twitter}>
-                    <FaTwitter />
+                    <FaWhatsapp />
                   </a>
                 </li>
               )}
@@ -216,7 +216,7 @@ function Header({ toggleHeader, toggleHandler }) {
               {!headerData.social.github ? null : (
                 <li className="list-inline-item">
                   <a href={headerData.social.github}>
-                    <FaGithub />
+                    <FaTelegramPlane />
                   </a>
                 </li>
               )}
