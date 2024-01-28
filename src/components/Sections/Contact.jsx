@@ -1,8 +1,9 @@
 import React, { useState } from "react";
+import emailjs from 'emailjs-com'; // Import SDK EmailJS
 
 const contactData = {
   phone: ["+62 85161052522"],
-  email: ["cp@aji.biz.id - ajizblast@gmail.com"],
+  email: ["cp@aji.biz.id"],
   location: "Jakarta, Indonesia",
 };
 
@@ -26,14 +27,23 @@ function Contact() {
       return;
     }
 
-    const mailtoLink = `mailto:${contactData.email.join(",")}?subject=${encodeURIComponent(
-      formdata.subject
-    )}&body=${encodeURIComponent(
-      `Name: ${formdata.name} Email: ${formdata.email} Subject: ${formdata.subject} Message: ${formdata.message}`
-    )}`;
-    
+    // Kirim email menggunakan EmailJS
+    emailjs.sendForm('gmailaji', 'Ytemplate_6mxjdg5', event.target, '6wPOHwPFG1ALqQDp4')
+      .then((result) => {
+        console.log(result.text);
+        setMessage('Your message has been sent successfully!');
+      }, (error) => {
+        console.log(error.text);
+        setMessage('There was an error sending your message. Please try again later.');
+      });
 
-    window.location.href = mailtoLink;
+    // Kosongkan form setelah pengiriman
+    setFormdata({
+      name: "",
+      email: "",
+      subject: "",
+      message: "",
+    });
   };
 
   const handleChange = (event) => {
