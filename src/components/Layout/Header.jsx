@@ -195,7 +195,7 @@ function Header({ toggleHeader, toggleHandler }) {
               {!headerData.social.facebook ? null : (
                 <li className="list-inline-item">
                   <a href={headerData.social.facebook}>
-                    <FaFacebookF />
+                    <FaTelegramPlane />
                   </a>
                 </li>
               )}
@@ -216,7 +216,7 @@ function Header({ toggleHeader, toggleHandler }) {
               {!headerData.social.github ? null : (
                 <li className="list-inline-item">
                   <a href={headerData.social.github}>
-                    <FaTelegramPlane />
+                    <FaGithub />
                   </a>
                 </li>
               )}
