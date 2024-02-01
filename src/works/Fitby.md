@@ -15,3 +15,5 @@ Fitby is a sleek fitness mobile app UI Kit featuring a crisp, contemporary desig
 Fitby UI Kit is adaptable and effortlessly customizable to suit your requirements. It offers meticulously organized layers, pixel-perfect designs, a stunning free font, and supplementary components for enhanced usability.
 
 I hope this meets your needs!
+
+Note: This is only Ui Design

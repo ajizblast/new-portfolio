@@ -8,11 +8,15 @@ const filters = [
   },
   {
     id: 2,
-    name: "Website",
+    name: "Live Website",
   },
   {
     id: 3,
-    name: "Ui Design",
+    name: "Website Ui Design",
+  },
+  {
+    id: 4,
+    name: "Mobile Ui Design",
   }
 ];
 
@@ -20,42 +24,42 @@ const allData = [
   {
     id: 1,
     name: "Landtick",
-    category: ["website","ui design"],
+    category: ["website","Website Ui Design"],
     image: "images/portfolio/landtick.png",
     slug: "landtick",
   },
   {
     id: 2,
     name: "Holyways",
-    category: ["website", "ui design"],
+    category: ["website", "Website Ui Design"],
     image: "images/portfolio/holyways.png",
     slug: "holyways",
   },
   {
     id: 3,
     name: "Waysgalery",
-    category: ["website", "ui design"],
+    category: ["website", "Website Ui Design"],
     image: "images/portfolio/ways-galery.png",
     slug: "ways-galery",
   },
   {
     id: 4,
     name: "Fitzy",
-    category: ["website", "ui design"],
+    category: ["Mobile ui design"],
     image: "images/portfolio/Fitby.png",
     slug: "Fitby",
   },
   {
     id: 5,
     name: "Iphone 8",
-    category: ["website", "ui design"],
+    category: ["Mobile ui design"],
     image: "images/portfolio/Shifby.png",
     slug: "Shifby",
   },
   {
     id: 6,
-    name: "Minimal Art",
-    category: ["design", "creative"],
+    name: "Xapax",
+    category: ["website", "Website ui design"],
     image: "images/portfolio/6.jpg",
     slug: "minimal-art",
   },

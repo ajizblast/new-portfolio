@@ -21,8 +21,8 @@ untuk deployment kami menggunakan heroku untuk deploy website dan postgre sql ya
 
 ### Link Landtick Website
 
- - [Live Website](https://www.holyways.mahadewa.online)
- - [Github](https://www.ways-galery.mahadewa.online/)
+ - [Live Website](https://www.ways-galery.mahadewa.online)
+ - [Github](https://github.com/ajizblast/ways-galery)
  - [Figma Design](https://www.figma.com/file/ItTNE8LlQOFCUhbX2bH4ls/Untitled?type=design&node-id=0%3A1&mode=design&t=5mhKVfZRtt8MIR7f-1)
 
 
