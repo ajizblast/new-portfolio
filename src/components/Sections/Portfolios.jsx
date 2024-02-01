@@ -51,7 +51,7 @@ const allData = [
   },
   {
     id: 5,
-    name: "Iphone 8",
+    name: "Shifby",
     category: ["Mobile ui design"],
     image: "images/portfolio/Shifby.png",
     slug: "Shifby",
