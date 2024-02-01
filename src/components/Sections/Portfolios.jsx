@@ -60,7 +60,7 @@ const allData = [
     id: 6,
     name: "Xapax",
     category: ["website", "Website ui design"],
-    image: "images/portfolio/xpax.png",
+    image: "images/portfolio/xapax.png",
     slug: "xapax",
   },
   {
