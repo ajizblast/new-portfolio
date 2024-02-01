@@ -7,7 +7,7 @@ link: https://www.figma.com/file/Xdzdq453Rkry7kiXK6fF01/Shifby---House-Service-A
 
 ### Shifby
 
-![Boost your post for increasing sales](/images/portfolio/Shiftby.png)
+![Boost your post for increasing sales](/images/portfolio/shiftby.png)
 
 #### Overview
 

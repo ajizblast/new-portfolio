@@ -6,7 +6,7 @@ link: https://xapax.mahadewa.online/
 
 ### Xapax
 
-![Boost your post for increasing sales](/images/portfolio/Xapax.png)
+![Boost your post for increasing sales](/images/portfolio/xapax.png)
 
 #### Overview
 

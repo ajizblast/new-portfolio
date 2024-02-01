@@ -6,7 +6,7 @@ link: https://www.figma.com/file/4pnllfGIseepOMJjnia7Og/Fitby---Fitness-Mobile-A
 
 ### Fitby
 
-![Boost your post for increasing sales](/images/portfolio/Fitby.png)
+![Boost your post for increasing sales](/images/portfolio/fitby.png)
 
 #### Overview
 
