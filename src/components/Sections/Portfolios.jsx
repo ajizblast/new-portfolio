@@ -44,7 +44,7 @@ const allData = [
   },
   {
     id: 4,
-    name: "Fitzy",
+    name: "Fitby",
     category: ["Mobile ui design"],
     image: "images/portfolio/Fitby.png",
     slug: "Fitby",
@@ -60,8 +60,8 @@ const allData = [
     id: 6,
     name: "Xapax",
     category: ["website", "Website ui design"],
-    image: "images/portfolio/6.jpg",
-    slug: "minimal-art",
+    image: "images/portfolio/Xapax.png",
+    slug: "Xapax",
   },
   {
     id: 7,
