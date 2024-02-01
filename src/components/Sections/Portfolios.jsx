@@ -24,7 +24,7 @@ const allData = [
   {
     id: 1,
     name: "Landtick",
-    category: ["Website","Website Ui Design"],
+    category: ["website","website ui design"],
     image: "images/portfolio/landtick.png",
     slug: "landtick",
   },
