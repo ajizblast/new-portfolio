@@ -8,7 +8,7 @@ const filters = [
   },
   {
     id: 2,
-    name: "Live Website",
+    name: "Website",
   },
   {
     id: 3,
@@ -24,21 +24,21 @@ const allData = [
   {
     id: 1,
     name: "Landtick",
-    category: ["Live Website","Website Ui Design"],
+    category: ["Website","Website Ui Design"],
     image: "images/portfolio/landtick.png",
     slug: "landtick",
   },
   {
     id: 2,
     name: "Holyways",
-    category: ["Live Website", "Website Ui Design"],
+    category: ["Website", "Website Ui Design"],
     image: "images/portfolio/holyways.png",
     slug: "holyways",
   },
   {
     id: 3,
     name: "Waysgalery",
-    category: ["Live Website", "Website Ui Design"],
+    category: ["Website", "Website Ui Design"],
     image: "images/portfolio/ways-galery.png",
     slug: "ways-galery",
   },
@@ -59,7 +59,7 @@ const allData = [
   {
     id: 6,
     name: "Xapax",
-    category: ["Live Website", "Website ui design"],
+    category: ["Website", "Website ui design"],
     image: "images/portfolio/xapax.png",
     slug: "xapax",
   },
